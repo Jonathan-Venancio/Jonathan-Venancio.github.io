@@ -10,5 +10,7 @@ Domino:
 * Ciência de dados
 
 ### teste
-<img src="python.jpg">
+<img src="https://github.com/Jonathan-Venancio/Jonathan-Venancio.github.io/python.jpg">
 <p>Teste de adição de imagem</p>
+
+<img src="https://github.com/Jonathan-Venancio/Jonathan-Venancio.github.io/python.jpeg">
