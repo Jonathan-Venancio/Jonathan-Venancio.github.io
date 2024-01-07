@@ -10,5 +10,5 @@ Domino:
 * Ciência de dados
 
 ### teste
-<img src="python.jpeg">
+<img src="python.jpg">
 <p>Teste de adição de imagem</p>
