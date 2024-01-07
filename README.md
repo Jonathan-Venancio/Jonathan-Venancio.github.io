@@ -1,6 +1,4 @@
-<h1> Portifólio </h1>
-# Jonathan Ghabriel
-
+<h1> Jonathan Ghabriel Portifólio </h1>
 
 Este vai ser o meu portifólio
 
