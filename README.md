@@ -1,9 +1,12 @@
 <h1> Sobre Mim </h1>
 
 <div style='text-align:justify'>
+<p>  
 Olá, me chamo Jonathan Ghabriel, decidi criar este site para publicar o meu portifólio de projetos, desde sempre fui facinado por tecnologia e logo comecei a estudar programação, comecei com html, css e java script, mas logo conheci o python e desde então descidi que era com ele que eu gostaria de trabalhar, também domino muito bem o excel e a linguagem VBA. 
-
+</p>
+<p>
 Sou formado em segurança da informação e tenho pós graduação em Ciência de Dados, que foi onde trabalhei a maior parte do tempo. Trabalhei como Ciêntista de Dados por 3 anos em uma escola, onde lá eu criei um sistema que fazia analises baseadas nas notas e atividades de cada aluno da escola, e no meio disso como freelancer criei um sistema para uma empresa gigantesca da minha cidade, onde o sistema fazia a separação de quanto a empresa tinha que cobrar para os seus clientes baseado nos gastos de energia.
+</p>
 </div>
 
 <h1>Portifólio:</h1>
