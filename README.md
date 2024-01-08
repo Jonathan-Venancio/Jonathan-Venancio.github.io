@@ -13,6 +13,8 @@ Domino:
 <img src="https://github.com/Jonathan-Venancio/Jonathan-Venancio.github.io/blob/main/pyhon.png">
 <p>Teste de adição de imagem</p>
 
+<img src="https://github.com/Jonathan-Venancio/Jonathan-Venancio.github.io/blob/main/img/pyhon.jpg">
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/182px-Python-logo-notext.svg.png">
 
 
