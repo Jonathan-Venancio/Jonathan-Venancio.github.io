@@ -14,3 +14,6 @@ Domino:
 <p>Teste de adição de imagem</p>
 
 <img src="./img/python.jpeg">
+
+<p>Teste com markdown</p>
+![python](./img/python.jpg)
