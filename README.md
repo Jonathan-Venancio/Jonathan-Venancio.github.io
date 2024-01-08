@@ -20,7 +20,7 @@ o F.I.A. foi o meu primeiro grande projeto, que consiste em um sistema criado em
 </div>
 
 ### foto e video do fia
-
+<img src="https://i.pinimg.com/736x/53/88/8e/53888ebbb873f0dd2c59b8f843ae9ebe.jpg">
 
 ## Clip
 
