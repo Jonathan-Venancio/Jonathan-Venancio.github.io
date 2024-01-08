@@ -22,5 +22,5 @@ Domino:
 <p>Teste com o formato svg</p>
 <img src="Design-sem-nome.svg">
 
-<p>Teste com o formato png do canva</p>
-<img src="Design-sem-nome.svg.png">
+<p>Teste com o pinterest</p>
+<img src="https://i.pinimg.com/564x/69/ca/9d/69ca9dfefc0bc9b3ed3fcb7435f599d2.jpg">
