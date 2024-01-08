@@ -23,4 +23,4 @@ Domino:
 <img src="Design-sem-nome.svg">
 
 <p>Teste com o formato png do canva</p>
-<img src="Design-sem-nome.png">
+<img src="Design-sem-nome.svg.png">
