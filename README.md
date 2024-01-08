@@ -19,3 +19,5 @@ Domino:
 <p>3</p>
 <img src="Excel.svg.png">
 
+<p>Teste com o formato svg</p>
+<img src="Design-sem-nome.svg">
