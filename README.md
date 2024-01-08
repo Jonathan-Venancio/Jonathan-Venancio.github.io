@@ -12,7 +12,7 @@ Sou formado em segurança da informação e tenho pós graduação em Ciência d
 
 <h1>Portifólio:</h1>
 
-### F.I.A.
+## F.I.A.
 <div style='text-align:justify'>
 <p>
 o F.I.A. foi o meu primeiro grande projeto, que consiste em um sistema criado em Excel e VBA, feito para analisar o desempenho de cada aluno da escola, ele foi criado com o intuito de diminuir o trabalho repetivivo que vinha sendo feito, e com um simples botão todo trabalho que levava semanas para ficar pronto, era feito em menos de 1 minuto. F.I.A. é um apelido para Ficha Individual Por Aluno, que eram basicamente os relatórios de cada aluno que o sistema gerava.
@@ -22,7 +22,7 @@ o F.I.A. foi o meu primeiro grande projeto, que consiste em um sistema criado em
 ### foto e video do fia
 
 
-### Clip
+## Clip
 
 <div style='text-align:justify'>
 <p>
@@ -35,7 +35,7 @@ Texto da clip
 ### foto e video da clip
 
 
-### Appa
+## Appa
 
 <div style='text-align:justify'>
 <p>
@@ -45,10 +45,10 @@ Texto do appa
 </p>
 </div>
 
-### foto e video do appa
+## foto e video do appa
 
 
-### Fecho automático
+## Fecho automático
 
 <div style='text-align:justify'>
 <p>
@@ -61,7 +61,7 @@ Texto do fecho automático
 ### foto e video do fecho automático
 
 
-### Sistema dos tinteiros
+## Sistema dos tinteiros
 
 <div style='text-align:justify'>
 <p>
@@ -74,7 +74,7 @@ Texto do sistema dos tinteiros
 ### foto e video do sistema dos tinteiros
 
 
-### Sistema de pdf
+## Sistema de pdf
 
 <div style='text-align:justify'>
 <p>
