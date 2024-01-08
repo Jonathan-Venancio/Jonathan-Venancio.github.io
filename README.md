@@ -10,23 +10,42 @@ Sou formado em segurança da informação e tenho pós graduação em Ciência d
 ### F.I.A.
 o F.I.A. foi o meu primeiro grande projeto, que consiste em um sistema criado em Excel e VBA, feito para analisar o desempenho de cada aluno da escola, ele foi criado com o intuito de diminuir o trabalho repetivivo que vinha sendo feito, e com um simples botão todo trabalho que levava semanas para ficar pronto, era feito em menos de 1 minuto. F.I.A. é um apelido para Ficha Individual Por Aluno, que eram basicamente os relatórios de cada aluno que o sistema gerava.
 
-###foto e video do fia
+### foto e video do fia
 
 
+### Clip
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/182px-Python-logo-notext.svg.png">
+Texto da clip
 
-<p> teste com outra imagem </p>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/768px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png">
+### foto e video da clip
 
-<p>3</p>
-<img src="Excel.svg.png">
 
-<p>Teste com o formato svg</p>
-<img src="Design-sem-nome.svg">
+### Appa
 
-<p>Teste com o pinterest</p>
-<img src="https://i.pinimg.com/564x/69/ca/9d/69ca9dfefc0bc9b3ed3fcb7435f599d2.jpg">
+Texto do appa
+
+### foto e video do appa
+
+
+### Fecho automático
+
+Texto do fecho automático
+
+### foto e video do fecho automático
+
+
+### Sistema dos tinteiros
+
+Texto do sistema dos tinteiros
+
+### foto e video do sistema dos tinteiros
+
+
+### Sistema de pdf
+
+Texto do sistema de pdf
+
+### foto e video de pdf
 
 
 <p>Clique na imagem para acessar o video</p>
