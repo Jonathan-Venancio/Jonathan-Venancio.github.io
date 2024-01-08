@@ -27,6 +27,6 @@ Domino:
 
 
 <p>Clique na imagem para acessar o video</p>
-<a href="https://www.youtube.com/watch?v=eEZF9iIv5XM">
+<a href="https://www.youtube.com/watch?v=eEZF9iIv5XM" target="_blank">
   <img src="https://i.pinimg.com/736x/ba/4b/08/ba4b087a26e442ea57c2792fc0b88796.jpg">
 </a>
