@@ -25,4 +25,8 @@ Domino:
 <p>Teste com o pinterest</p>
 <img src="https://i.pinimg.com/564x/69/ca/9d/69ca9dfefc0bc9b3ed3fcb7435f599d2.jpg">
 
-<img src="https://i.pinimg.com/736x/ba/4b/08/ba4b087a26e442ea57c2792fc0b88796.jpg">
+
+<p>Clique na imagem para acessar o video</p>
+<a href="https://www.youtube.com/watch?v=eEZF9iIv5XM">
+  <img src="https://i.pinimg.com/736x/ba/4b/08/ba4b087a26e442ea57c2792fc0b88796.jpg">
+</a>
