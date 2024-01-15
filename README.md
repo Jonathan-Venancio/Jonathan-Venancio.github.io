@@ -19,7 +19,6 @@ o F.I.A. foi o meu primeiro grande projeto, que consiste em um sistema criado em
 </p>
 </div>
 
-### foto e video do fia
 <p>
 <img src="https://i.pinimg.com/736x/bb/f7/55/bbf755a2e8c244c36741c7b2578f80ad.jpg"> 
 </p>
@@ -34,7 +33,6 @@ Texto da clip
 </p>
 </div>
 
-### foto e video da clip
 <img src="https://i.pinimg.com/736x/04/05/ef/0405ef25a4600c8744715ce3b08655cd.jpg">
 
 ## Appa
@@ -47,10 +45,7 @@ Texto do appa
 </p>
 </div>
 
-<img src="APPA.svg">
-
-## foto e video do appa
-<img src="https://i.pinimg.com/736x/0e/ee/66/0eee662fa1723374e46f9ce7110b43be.jpg"> 
+<img src="imagens/APPA.svg">
 
 ## Fecho automático
 
@@ -62,7 +57,6 @@ Texto do fecho automático
 </p>
 </div>
 
-### foto e video do fecho automático
 <img src="https://i.pinimg.com/736x/04/05/ef/0405ef25a4600c8744715ce3b08655cd.jpg">
 
 ## Sistema dos tinteiros
@@ -75,7 +69,6 @@ Texto do sistema dos tinteiros
 </p>
 </div>
 
-### foto e video do sistema dos tinteiros
 <img src="https://i.pinimg.com/736x/04/05/ef/0405ef25a4600c8744715ce3b08655cd.jpg">
 
 ## Sistema de pdf
@@ -88,10 +81,5 @@ Texto do sistema de pdf
 </p>
 </div>
 
-### foto e video de pdf
 <img src="https://i.pinimg.com/736x/2b/8f/2c/2b8f2c441fabd8ff229458f69f8ac148.jpg"> 
 
-<p>Clique na imagem para acessar o video</p>
-<a href="https://www.youtube.com/watch?v=eEZF9iIv5XM" target="_blank">
-  <img src="https://i.pinimg.com/736x/ba/4b/08/ba4b087a26e442ea57c2792fc0b88796.jpg">
-</a>
