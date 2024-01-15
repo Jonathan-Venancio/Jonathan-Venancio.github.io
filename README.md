@@ -47,6 +47,8 @@ Texto do appa
 </p>
 </div>
 
+<img src="APPA.svg">
+
 ## foto e video do appa
 <img src="https://i.pinimg.com/736x/0e/ee/66/0eee662fa1723374e46f9ce7110b43be.jpg"> 
 
