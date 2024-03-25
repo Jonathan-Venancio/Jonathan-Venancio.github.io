@@ -85,5 +85,5 @@ Texto do sistema de pdf
 
 
 ## video do guanabara
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Oj26AOVuLYw?si=nH3eYOIIAL5uKSR0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe min-width="320" max-width="800" src="https://www.youtube.com/embed/Oj26AOVuLYw?si=nH3eYOIIAL5uKSR0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
