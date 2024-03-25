@@ -84,6 +84,3 @@ Texto do sistema de pdf
 <img src="https://i.pinimg.com/736x/2b/8f/2c/2b8f2c441fabd8ff229458f69f8ac148.jpg"> 
 
 
-## video do guanabara
-<iframe min-width="320" max-width="800" src="https://www.youtube.com/embed/Oj26AOVuLYw?si=nH3eYOIIAL5uKSR0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
