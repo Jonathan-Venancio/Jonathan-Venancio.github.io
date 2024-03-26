@@ -3,15 +3,18 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Portifolio Jonathan Venancio</title>
+    <title>Document</title>
 
     <style>
         body {background-color: gray;}
 
         main {background-color: white; padding: 20px; border-radius: 10px; 
-            min-widt: 320px; max-widt: 400px; margin: auto;}
+            min-width: 320px; max-width: 800px; margin: auto;}
 
-        img { min-width: 70%; max-width: 70%; min-height: 70%; max-height: 70%;}
+        img { width: 100%; }
+
+        iframe { width: 50%; }
+
     </style>
 
 
@@ -30,8 +33,12 @@
             aluno que o sistema gerava. 
         </p>     
 
-        <img src="fia.png" alt="Fia">
-        
+        <picture>
+            <source media="(max-width: 800px)" srcset="fia.png">
+            
+            <img src="fia.png" alt="Fia">
+            </picture>
+
         <p>o F.I.A. foi o meu primeiro grande projeto, 
             que consiste em um sistema criado em Excel e VBA, feito para analisar o 
             desempenho de cada aluno da escola, ele foi criado com o intuito de diminuir 
@@ -52,7 +59,6 @@
             aluno que o sistema gerava. 
         </p> 
 
-        
     </main>
 </body>
 </html>
